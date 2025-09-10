@@ -52,11 +52,17 @@ footer {
   height: auto;
 }
 
+/* Estilos para o logo */
+#logo {
+  width: 400px;  /* Aumentando o logo para 400px de largura */
+  height: auto;
+}
+
 /* Estilos para as imagens dos pratos */
 .menu-img {
-  width: 100px;  /* Aumentando o tamanho das imagens dos pratos */
+  width: 200px;  /* Aumentando as imagens dos pratos para 200px de largura */
   height: auto;
-  margin-right: 15px;
+  margin-right: 20px;
   vertical-align: middle;
 }
 
@@ -87,8 +93,8 @@ ul {
 }
 
 ul li {
-  font-size: 1.2em;
-  padding: 10px 0;
+  font-size: 1.5em;  /* Aumentando o tamanho da fonte para dar mais destaque */
+  padding: 20px 0;
 }
 
 footer {
