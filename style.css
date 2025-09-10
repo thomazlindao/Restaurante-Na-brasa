@@ -52,15 +52,9 @@ footer {
   height: auto;
 }
 
-/* Estilos para o logo */
-#logo {
-  width: 400px;  /* Aumentando o logo para 400px de largura */
-  height: auto;
-}
-
 /* Estilos para as imagens dos pratos */
 .menu-img {
-  width: 200px;  /* Aumentando as imagens dos pratos para 200px de largura */
+  width: 300px;  /* Aumentando as imagens dos pratos para 300px de largura */
   height: auto;
   margin-right: 20px;
   vertical-align: middle;
