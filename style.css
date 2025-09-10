@@ -54,9 +54,9 @@ footer {
 
 /* Estilos para as imagens dos pratos */
 .menu-img {
-  width: 50px;  /* Ajuste o tamanho conforme necessário */
+  width: 70px;  /* Ajuste o tamanho conforme necessário */
   height: auto;
-  margin-right: 10px;
+  margin-right: 30px;
   vertical-align: middle;
 }
 
